@@ -1,0 +1,5 @@
+UI13 Etablissement1 12 Tunis
+AD22 Etablissement3 Ariana 20
+U15 EST16 Fouchana 20
+UDF13 Etablissement4 13 Beja
+YGH11 Etablissement5 22 Sfax
